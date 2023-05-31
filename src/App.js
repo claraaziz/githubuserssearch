@@ -39,7 +39,7 @@ const getUsers = async (query) => {
       <div className='mt-5 mb-20'>
         {
           results ? results.map(user=><div className='bg-slate-800 rounded-lg flex flex-row mb-3 pt-3 pb-3 pl-5 pr-5'>
-            <img src={user.avatar_url} alt="userimg" className='rounded-full w-2/12 mr-5'/>
+            <img src={user.avatar_url} alt="userimg" className='rounded-full w-3/12 md:w-2/12 lg:w-2/12 mr-5'/>
             <div className='flex flex-col justify-center'>
               <p className='transition ease-in-out text-slate-300 font-mono font-bold text-lg md:text-xl lg:text-2xl'>{user.login}</p>
               <div>
