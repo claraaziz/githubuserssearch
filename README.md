@@ -17,7 +17,9 @@ To use this application, follow these steps:
 ## Features
 
 • Search for any Github user by their username
+
 • Display basic user information in an organized and visually appealing format
+
 • Responsive design for optimal viewing on a range of devices
 
 ## Dependencies
