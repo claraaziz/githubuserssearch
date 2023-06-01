@@ -32,13 +32,10 @@ This application uses the following dependencies:
 ## User Interface
 
 The search feature is designed to be user-friendly and easy to use. Users can simply type in a Github username into the search field, and the page will display the relevant information about that user in an organized and visually appealing format.
-![image](https://github.com/claraaziz/githubuserssearch/assets/61804184/3aca6247-8123-4e9c-98d0-e7b6dd894bf8)
-![image](https://github.com/claraaziz/githubuserssearch/assets/61804184/8de5ac5c-fdfd-496f-a654-108cc1908490)
 
 ### Responsive
 
 The React page is designed to be responsive, ensuring that it is accessible and user-friendly on a range of devices, including desktops, tablets, and smartphones. The interface is intuitive and easy to navigate, allowing users to quickly find and access the information they need.
-![Screenshot_20230601_134236_Chrome](https://github.com/claraaziz/githubuserssearch/assets/61804184/6ce93903-95b6-45f9-aba7-9a7ef9f3bdd9)
 
 ## Github User Search
 
